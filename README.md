@@ -1,3 +1,9 @@
 
 
-![alt text](https://github.com/infosecisa/infosecisa/blob/main/WhatsApp%20Image%202021-08-29%20at%2017.34.24_preview_rev_1%20(1).png "Logo Title Text 1") ### Isabelly Avelar
+![alt text](https://github.com/infosecisa/infosecisa/blob/main/icon.png "Logo Title Text 1") 
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/infosecisa/infosecisa/blob/main/icon.png" alt="Descrição da imagem" width="200" height="200" />
+  <p>Seu texto aqui.</p>
+</div>
+
